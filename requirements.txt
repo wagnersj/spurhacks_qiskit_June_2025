@@ -109,7 +109,7 @@ pytz==2025.2
 PyYAML==6.0.2
 pyzmq==26.3.0
 qiskit==2.0.2
-qiskit-addon-sqd==0.10.0
+qiskit-addon-sqd==0.11.0
 qiskit-aer==0.17.0
 qiskit-ibm-runtime==0.40.1
 referencing==0.36.2
